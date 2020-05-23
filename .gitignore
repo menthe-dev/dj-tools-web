@@ -1,0 +1,10 @@
+# Parcel
+dist/
+.cache/
+
+# Yarn
+node_modules/
+
+# IDE
+.vscode/
+.idea/
